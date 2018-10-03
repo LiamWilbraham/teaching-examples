@@ -1,0 +1,68 @@
+[I 12:37:16.132 NotebookApp] The port 8888 is already in use, trying another port.
+[I 12:37:16.132 NotebookApp] The port 8889 is already in use, trying another port.
+[I 12:37:16.133 NotebookApp] The port 8890 is already in use, trying another port.
+[I 12:37:16.298 NotebookApp] JupyterLab alpha preview extension loaded from /home/liam/anaconda3/lib/python3.6/site-packages/jupyterlab
+JupyterLab v0.27.0
+Known labextensions:
+[I 12:37:16.312 NotebookApp] Running the core application with no additional extensions or settings
+[I 12:37:16.352 NotebookApp] Serving notebooks from local directory: /home/liam/2018-09-27-diego-dyes/machine-learning-tutorial
+[I 12:37:16.352 NotebookApp] 0 active kernels 
+[I 12:37:16.352 NotebookApp] The Jupyter Notebook is running at: http://localhost:8891/?token=adc98b27b64089afeb4dbb97d3063d82acf5d3d708c94c3f
+[I 12:37:16.352 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:37:16.357 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8891/?token=adc98b27b64089afeb4dbb97d3063d82acf5d3d708c94c3f
+[I 12:37:18.504 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 12:37:47.146 NotebookApp] Creating new notebook in 
+[I 12:37:49.793 NotebookApp] Kernel started: 78dc59c6-2fda-4316-a3cf-54869fae332e
+[I 12:37:51.785 NotebookApp] Adapting to protocol v5.1 for kernel 78dc59c6-2fda-4316-a3cf-54869fae332e
+[I 12:39:49.702 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 12:41:49.666 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 12:43:49.670 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 12:45:49.677 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 12:47:49.692 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 12:49:27.140 NotebookApp] Kernel interrupted: 78dc59c6-2fda-4316-a3cf-54869fae332e
+[I 12:49:49.659 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 12:51:49.700 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 12:53:49.679 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 12:55:49.658 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 12:57:49.660 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 12:59:49.671 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:01:49.713 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:03:49.659 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:05:49.670 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:09:49.670 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:11:49.676 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:13:49.733 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:15:49.675 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:17:49.699 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:19:49.783 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:21:49.816 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:23:49.671 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:25:49.706 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:27:49.663 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:29:49.669 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:31:49.714 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:33:49.728 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:35:49.673 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:37:49.662 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:39:49.690 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:41:49.662 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:43:49.655 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:45:49.669 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:47:49.722 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:49:49.694 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:51:49.732 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:53:49.664 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:55:49.670 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 13:57:49.666 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 14:43:49.684 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 14:45:49.670 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 14:51:49.664 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 14:53:49.675 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 14:55:49.701 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 14:57:49.734 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 15:05:49.710 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb
+[I 15:07:49.663 NotebookApp] Saving file at /ML-tutorial-dyes.ipynb

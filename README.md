@@ -1,2 +1,2 @@
 # teaching-examples
-Examples of python that may be useful for research projects
+Simple examples of python snippets that may be useful for new group members 
